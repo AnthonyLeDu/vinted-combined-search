@@ -1,0 +1,15 @@
+{
+  "name": "vinted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-dev index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vinted-api": "npm:@imperiator_/vinted-api@^2.9.2"
+  }
+}
