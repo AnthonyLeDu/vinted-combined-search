@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true, // Active beaucoup plus de vérifications d'erreur (types obligés, etc.)
+    "outDir": ".", // dossier de destination
+    "target": "ES2022", // langage cible
+    // "noEmitOnError": true // Empêche la compilation s'il y a des erreurs
+  },
+  "files": [
+    "src/index.ts",
+    "src/index.test.ts",
+  ]
+}
